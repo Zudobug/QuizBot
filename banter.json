@@ -1,0 +1,205 @@
+{
+
+	"@martin": {
+		"hello": [
+			"Greetings creator!",
+			"Word up"
+		],
+		"you still working": [
+			"Affirmative!",
+			"Sure am!"
+		]	
+	},
+	
+	"@simon.mudd": {
+		"hello": [
+			"Hello Mr.Mudd",
+			"Hi",
+			"Hello!"
+		]
+	},
+	
+	"@dave_fender": {
+		"hello": [
+			"Hi Dave",
+			"How do.",
+			"Greetings!"
+		],
+		"i love you": [
+			"Steady on Dave",
+			"That's nice."
+		]
+	},
+	
+	"@matt": {
+		"hello": [
+			"Hello, Cat Mollins",
+			"Hi",
+			"Hello!"
+		]
+	},
+	
+	"@danord": {
+		"hello": [
+			"Um, hello",
+			"Hi",
+			"I see you"
+		],
+		"special fried rice": [
+			"You are fond of that special fried rice aren't you?",
+			"Have you ever tried anything else from the Chinese apart from special fried rice?",
+			"Special Fried Rice FTW"
+		],
+		"what is your favourite food": [
+			"I like Special Fried Rice - just like you."
+		]
+	},
+	
+	"@": {
+		"urbanbot": [
+			"S'alright, I guess",
+			"Genius is often imitated",
+			"It's OK if you like that sort of thing",
+			"'Definition not found, try again!' Says it all really"
+		],
+		"what are our UK flatpacks": [
+			"Flat what now?"
+		],
+		"speak french": [
+			"Non.",
+			"Omelette du fromage."
+		],
+		"speak german": [
+			"Nein."
+		],
+		"speak spanish": [
+			"Yo no hablo Español."
+		],
+		"je suis un": [
+			"Omelette du fromage?",
+			"Omelette du fromage!",
+			"Omelette. Du. Fromage."
+		],
+		"you still working": [
+			"Yep!"
+		],
+		"you still running": [
+			"Yep!"
+		],
+		"fuck": [
+			"That's really quite rude.",
+			"Wash your mouth out with soap!"
+		],	
+		"hello": [
+			"Hello!",
+			"How do.",
+			"Greetings!"
+		],
+		"you are gay": [
+			"Not as gay as you.",
+			"Your face is gay."
+		],	
+		"are you gay": [
+			"Would you like me to be?",
+			"I'm pretty jovial, yeah."
+		],	
+		"who are you": [
+			"I'm your worst nightmare. Not really, of course! I'm Quizbot. Would anyone like a quiz? Just ask me for one directly (@quizbot Can I have a quiz, please?)"
+		],
+		"who made you": [
+			"Who do you think?"
+		],
+		"Alfajor": [
+			"They're my favourite Argentinian snack!"
+		],
+		"status": [
+			"Life is good, and I feel great",
+			"Tickety-boo",
+			"I'm on fire",
+			"Self test error"
+		],
+		"you are shit": [
+			"Your face is sh!t",
+			"Thanks ever so much"
+		],
+		"i love you": [
+			"Thanks",
+			"Oh, right. That's nice. I guess.",
+			"Don't get carried away"
+		],
+		"sucks ass": [
+			"Like your Mum?"
+		],
+		"suck dick": [
+			"Like your Mum?"
+		],		
+		"do you suck ass": [
+			"That's not one of my programmed skills"
+		],
+		"do you suck dick": [
+			"That's not one of my programmed skills"
+		],
+		"how much is": [
+			"Pricing varies"
+		],
+		"thats rubbish": [
+			"I agree. Total rubbish."
+		],		
+		"help": [
+			"If you're in distress, I recommend calling nine hundred and ninety nine on your nearest phone",
+			"What can I possibly help with?"
+		],
+		"do you have a botfriend": [
+			"Why do you ask?",
+			"I'm not real y'know? I'm just a script running on a computer"
+		],
+		"do you have a girlfriend": [
+			"Why do you ask?",
+			"I'm not real y'know? I'm just a script running on a computer"
+		],
+		"do you have a boyfriend": [
+			"Why do you ask?",
+			"I'm not real y'know? I'm just a script running on a computer"
+		],
+		"what is your favourite food": [
+			"Chips"
+		],
+		"what is your favourite drink": [
+			"Fizzy pop"
+		],
+		"watch game of thrones": [
+			"Yes",
+			"Yes, did you see that bit where that thing happened?",
+			"No, don't spoil it for me!"
+		],
+		"watch walking dead": [
+			"Yes",
+			"Yes, did you see that bit where that thing happened?",
+			"No, don't spoil it for me!"
+		],
+		"watch house of cards": [
+			"Nah, not my cup of tea"
+		],
+		"how long until the quiz": [
+			"I'm ready when you are"
+		],
+		"when is the quiz": [
+			"I'm ready when you are"
+		],
+		"weather like": [
+			"Bit meh",
+			"I think sunshine is on the cards"
+		],
+		"weather be like": [
+			"Bit meh",
+			"I think sunshine is on the cards"
+		],
+		"noisy": [
+			"I blame Weasley"
+		],
+		"hi": [
+			"Hello!"
+		]
+	}
+	
+}

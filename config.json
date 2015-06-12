@@ -1,0 +1,11 @@
+{
+	"token": "PUT TOKEN HERE!",
+	"quizchannel": "#quiz",
+	"questionsperquiz": 10,
+	"db_config": {
+		"host"    : "127.0.0.1",
+  	"user"    : "DB USER",
+  	"password": "DB PASSWORD",
+  	"database": "DB DATABASE"
+	}
+}
