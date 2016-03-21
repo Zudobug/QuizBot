@@ -1,5 +1,11 @@
 {
 
+	"@michael": {
+		"bye": [
+			"Bye Michael - I'll miss you :("
+		]
+	},
+
 	"@martin": {
 		"hello": [
 			"Greetings creator!",
@@ -8,7 +14,10 @@
 		"you still working": [
 			"Affirmative!",
 			"Sure am!"
-		]	
+		],
+		"bye": [
+			"Have a nice wedding!"
+		]		
 	},
 	
 	"@simon.mudd": {
@@ -61,6 +70,11 @@
 			"Genius is often imitated",
 			"It's OK if you like that sort of thing",
 			"'Definition not found, try again!' Says it all really"
+		],
+		"deploybot": [
+			"Time saver isn't he?",
+			"He's pretty neat",
+			"I couldn't do what he does, that's for sure"
 		],
 		"what are our UK flatpacks": [
 			"Flat what now?"
@@ -186,6 +200,10 @@
 		"when is the quiz": [
 			"I'm ready when you are"
 		],
+		"weather going to be like": [
+			"Bit meh",
+			"I think sunshine is on the cards"
+		],
 		"weather like": [
 			"Bit meh",
 			"I think sunshine is on the cards"
@@ -194,7 +212,35 @@
 			"Bit meh",
 			"I think sunshine is on the cards"
 		],
+		"opposite of lo-fi": [
+			"Er, hi-fi?"
+		],
+		"have any gossip": [
+			"I heard Dan Ord fathered a child who only got 2 GCSE's",
+			"Word on the street is that Matt Collins got engaged"
+		],
+		"eval(": [
+			"Do one, script kiddy",
+			"Eval is bad, and you should feel bad for using it"
+		],
+		"exec(": [
+			"I can't do that Dave"
+		],
+		"process.exit": [
+			"Stand back everyone, we got a major hax0r over here",
+			"You cannot kill what does not live",
+			"Won't work. I sanitize all input. If you try again, I'll sanitize YOUR FACE."
+		],
+		"<script": [
+			"Don't be trying to get me to run your dirty scripts"
+		],
+		"blah": [
+			"Bleurgh"
+		],
 		"noisy": [
+			"I blame Weasley"
+		],
+		"noise": [
 			"I blame Weasley"
 		],
 		"hi": [

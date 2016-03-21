@@ -1,11 +1,11 @@
 {
-	"token": "PUT TOKEN HERE!",
+	"token": "xoxb-4107839173-TerODMJCt4SysYLeOS0ymb6E",
 	"quizchannel": "#quiz",
 	"questionsperquiz": 10,
 	"db_config": {
 		"host"    : "127.0.0.1",
-  	"user"    : "DB USER",
-  	"password": "DB PASSWORD",
-  	"database": "DB DATABASE"
+  	"user"    : "root",
+  	"password": "mlittle",
+  	"database": "quiz"
 	}
 }

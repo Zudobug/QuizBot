@@ -259,6 +259,14 @@ slack.on('message', function(message) {
 							slackSendChannel(config.quizchannel,msg);
 							
 						} 
+						
+						else if(text.toLowerCase().indexOf('giraffe')!==-1) {
+						
+							var msg = [];
+							msg.push('http://bfy.tw/23U4');
+							slackSendChannel(config.quizchannel,msg);
+								
+						}						
 
 						else if(text.toLowerCase().indexOf('kitten')!==-1) {
 						
